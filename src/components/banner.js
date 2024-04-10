@@ -1,9 +1,10 @@
 import Image from 'next/image'
 
 const Banner = () => {
+    // https://i.ibb.co/RNQcdZR/banner.jpg bg link. you have to set the bg.
     return (
         <div>
-           <Image src='https://i.ibb.co/RNQcdZR/banner.jpg' alt="banner" width={200} height={200}></Image>
+           
         </div>
     );
 };
